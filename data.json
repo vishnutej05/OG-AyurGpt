@@ -1,0 +1,16 @@
+{
+    "dose":[
+        "How much dose of medicine should i take for disease",
+        "How much quantity",
+        "How long does it have the effect",
+        "How many times"
+    ],
+    "what":[
+        "What medicine should i take for disease",
+        "What can i take for disease",
+        "I have disease",
+        "I am having disease",
+        "I have been suffering from disease",
+        "I got disease"
+    ]
+}
